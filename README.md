@@ -1,1 +1,1 @@
-# domain
+wormxo.store
